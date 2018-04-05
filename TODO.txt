@@ -1,0 +1,14 @@
+This is a list of features that I will eventually implement into PixelDoodle:
+JAVASCRIPT
+>Sliders for picking size (Scale of 1 - 500?) Still trying to decide what the upmost limit should be
+>Persistent memory (allow a user to set a size and those numbers to be preserved on submit)
+>Dynamic grid (Allow grid to materialize on size value change)
+>Preset values (allow options for preset grid dimensions.)
+>Downloading images (allow user to save files for offline use)
+
+CSS
+>Clean up UI (Make it more pretty/beautiful)
+>Allow different UI options (beautiful/console/bizarre?)
+>Allow user to change UI to fit their preference
+
+ More to come!
