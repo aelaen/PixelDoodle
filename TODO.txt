@@ -5,6 +5,9 @@ JAVASCRIPT
 >Dynamic grid (Allow grid to materialize on size value change)
 >Preset values (allow options for preset grid dimensions.)
 >Downloading images (allow user to save files for offline use)
+>Sideload (overlay/underlay) an image using image search (image search engine)
+>Allow option to click and drag to paint an area with a color in one sweep
+
 
 CSS
 >Clean up UI (Make it more pretty/beautiful)
