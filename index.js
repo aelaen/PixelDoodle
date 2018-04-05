@@ -4,6 +4,10 @@ $("#pixelCanvas").on("click", "tr td", function(){
   //This adds event listened to the grid
 	$(this).css("background-color", colorVal.val());
 });
+$("#pixelCanvas").on("dblclick", "tr td", function(){
+	//This clears a tile on double click
+  	$(this).css("background-color", "#fff");
+});
 
 $("#sizePicker").submit(function(event){
   // Event Listener
